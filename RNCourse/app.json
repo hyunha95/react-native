@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "NomadWeather",
-    "slug": "NomadWeather",
+    "name": "RNCourse",
+    "slug": "RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "backgroundColor": "#1e085a",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
